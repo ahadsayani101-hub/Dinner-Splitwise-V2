@@ -2,7 +2,7 @@
 
 A free website for a friend group's monthly dinner. It splits the check **by what each person ordered**, and splits tax and tip **in proportion** to each person's food.
 
-Live site (after GitHub Pages is on): `https://nickschug-coder.github.io/dinner-club/`
+Live site (after GitHub Pages is on): `https://ahadsayani101-hub.github.io/Dinner-Splitwise-V2/`
 
 ## Team
 | Person | Owns |
@@ -12,13 +12,13 @@ Live site (after GitHub Pages is on): `https://nickschug-coder.github.io/dinner-
 | Friend 2 | Saving data, who-owes-who, "paid back" |
 
 ## First-time setup (for each teammate)
-1. Get a free GitHub account and accept Nick's collaborator invite (check your email).
+1. Get a free GitHub account and accept the collaborator invite from the repo owner (check your email).
 2. Install Git: https://git-scm.com/downloads
 3. Clone the repo:
    ```bash
-   git clone https://github.com/nickschug-coder/dinner-club.git
+   git clone https://github.com/ahadsayani101-hub/Dinner-Splitwise-V2.git
    ```
-4. Open the `dinner-club` folder in Claude Code. Claude reads `CLAUDE.md` for the project rules automatically.
+4. Open the `Dinner-Splitwise-V2` folder in Claude Code. Claude reads `CLAUDE.md` for the project rules automatically.
 
 ## Every time you work
 ```bash
